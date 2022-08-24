@@ -1,8 +1,10 @@
-# doctor_app
+# Doctor Appointment App
 
-A new Flutter project.
+A Flutter project for booking appointment.
 
-## Getting Started
+## Project Showcase, screenshot
+
+[![Screenshot-20220824-172007-doctor-app.png](https://i.postimg.cc/zGt6zP9f/Screenshot-20220824-172007-doctor-app.png)](https://postimg.cc/TKbCQQ28)
 
 This project is a starting point for a Flutter application.
 
